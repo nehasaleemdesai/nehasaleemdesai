@@ -1,7 +1,7 @@
 # Hi there, I'm Neha Saleem Desai 👋
 
 ### About Me
-I'm a passionate software developer with a knack for building innovative solutions. I love working with the latest technologies and continuously improving my skills. **I'm open to receiving mentorship or advice.** Here are a few things about me:
+I'm a Software engineer based in Illinois, US. **I'm open to receiving mentorship or advice.** Here are a few things about me:
 
 - 👀 I’m interested in discovering new cultures, exploring creative design, and connecting with like-minded individuals who share a passion for personal growth and storytelling.
 - 🔭 I’m currently working on **my portfolio website and blogging journey**
