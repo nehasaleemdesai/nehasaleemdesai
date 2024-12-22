@@ -23,24 +23,9 @@ I'm a passionate software developer with a knack for building innovative solutio
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### GitHub Stats
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehasaleemdesai&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehasaleemdesai&layout=compact&theme=radical)
-
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nehasaleemdesai)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/itsbeuh)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
 
-### Projects
-- [React Picture Gallery](https://github.com/nehasaleemdesai/react-picture-gallery): A dynamic image gallery built using React, showcasing the use of state and effects.
-- [Pig Game](https://github.com/nehasaleemdesai/pig-game): A simple dice game built with JavaScript, focusing on user interaction and randomness.
-- [Music Player](https://github.com/nehasaleemdesai/music-player): A music player app created using vanilla JavaScript, featuring play, pause, and song navigation functionality.
-
-### Support Me
-If you like my work, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/nehasaleemdesai)
 
