@@ -1,6 +1,6 @@
 # Hi there, I'm Neha Saleem Desai 👋
 
-I'm currently based in Illinois, USA, and actively advancing in my coding journey. **I'm open to receiving mentorship or advice.** Here are a few things about me:
+Actively advancing in my coding journey. **I'm open to receiving mentorship or advice.** Here are a few things about me:
 
 - 👀 I’m interested in discovering new cultures, exploring creative design, and connecting with like-minded individuals who share a passion for personal growth and storytelling.
 - 🔭 I’m currently working on **my portfolio website and blogging journey**
